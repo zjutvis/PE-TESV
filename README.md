@@ -11,13 +11,15 @@ Each figure shows the orginal result of timeline visualization (left) and the re
 
 ## Table of Content
 
-* [Different\ Columns](#Different\ Columns)
-* [Case One](#Case One)
-* [Case Two](#Case Two)
+* [Comparsion of different columns](#Columns)
+* [Case One](#Case1)
+* [Case Two](#Case2)
 
 
 
-## Different Columns
+## Columns
+
+These results are the comparison of results that applied our pattern enhancement strategies in different columns.
 
 ### Element Movement
 
@@ -91,7 +93,7 @@ Each figure shows the orginal result of timeline visualization (left) and the re
 
 
 
-## Case One
+## Case1
 
 Case $\mathrm{I}$ utilizes different projection methods and paramenters in a ReID dataset, the points in the timeline represent the outliers in each projection result.
 
@@ -173,7 +175,7 @@ Case $\mathrm{I}$ utilizes different projection methods and paramenters in a ReI
 
 
 
-## Case Two
+## Case2
 
 Case $\mathrm{II}$ utilizes the Park dataset from [VAST challenge 2015](http://vacommunity.org/VAST+Challenge+2015), which records the locations of tourists in an amusement park. We choose the location information of tourists within ninety minutes, and filter the twenty-five tourists with the most location information.
 
