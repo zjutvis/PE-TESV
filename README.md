@@ -11,14 +11,13 @@ Each figure shows the orginal result of timeline visualization (left) and the re
 
 ## Table of Content
 
-- [Different Columns](#Different Columns)
-
+* [Different](#Different)
 * [Case One](#Case One)
 * [Case Two](#Case Two)
 
 
 
-## Different Columns
+## Different
 
 ### Element Movement
 
@@ -176,8 +175,7 @@ Case $\mathrm{I}$ utilizes different projection methods and paramenters in a ReI
 
 ## Case Two
 
-Case $\mathrm{II}$ utilizes the Park dataset from [VAST challenge 2015](http://vacommunity.org/VAST+Challenge+
-2015.), which records the locations of tourists in an amusement park. We choose the location information of tourists within ninety minutes, and filter the twenty-five tourists with the most location information.
+Case $\mathrm{II}$ utilizes the Park dataset from [VAST challenge 2015](http://vacommunity.org/VAST+Challenge+2015), which records the locations of tourists in an amusement park. We choose the location information of tourists within ninety minutes, and filter the twenty-five tourists with the most location information.
 
 The results of pattern enhancement strategies are shown as followings. Each circle denotes a tourist. We examine our strategies in the fourth and sixth column.
 
