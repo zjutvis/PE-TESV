@@ -11,13 +11,13 @@ Each figure shows the orginal result of timeline visualization (left) and the re
 
 ## Table of Content
 
-* [Different](#Different)
+* [Different\ Columns](#Different\ Columns)
 * [Case One](#Case One)
 * [Case Two](#Case Two)
 
 
 
-## Different
+## Different Columns
 
 ### Element Movement
 
