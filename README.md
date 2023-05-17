@@ -19,8 +19,10 @@ Temporal evolving set data are time-varying and growing ubiquitous in person re-
 @article{zhu2022towards,
   title = {{Towards Better Pattern Enhancement in Temporal Evolving Set Visualization}},
   journal = {Journal of Visualization},
-  pages = {1-1},
-  year = {2022},
+  pages = {611-629},
+  volume = {26},
+  issue = {3},
+  year = {2023},
   doi = {https://doi.org/10.1007/s12650-022-00896-x},
   author = {Zihao Zhu and Yue Shen and Sujia Zhu and Gefei Zhang and Ronghua Liang and Guodao Sun},
   keywords = {Temporal evolving set data, Pattern enhancement strategy, Progressive timeline layout algorithm}
